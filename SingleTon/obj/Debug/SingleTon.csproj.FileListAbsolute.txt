@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\bin\Debug\SingleTon.exe.config
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\bin\Debug\SingleTon.exe
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\bin\Debug\SingleTon.pdb
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\obj\Debug\SingleTon.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\obj\Debug\SingleTon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\obj\Debug\SingleTon.exe
+C:\Users\Dell\source\repos\Coding Standred\SingleTon\obj\Debug\SingleTon.pdb

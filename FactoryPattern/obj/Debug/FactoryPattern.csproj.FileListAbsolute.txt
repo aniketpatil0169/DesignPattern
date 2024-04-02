@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\Dell\source\repos\Coding Standred\FactoryPattern\obj\Debug\FactoryPattern.pdb
